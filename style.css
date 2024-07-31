@@ -2,8 +2,17 @@ h1{
     width: 100%;
     text-align: center;
 }
-h1{font-size: 350%;}
+h1{font-size: 50px;}
 body{
-    background-color: aqua;
+    background-image: url("background.jpg") ;
 }
-li{font-size: 120%;}
+li{ 
+    font-size: 30px;
+}
+img {
+    width: 100px;
+}
+ol{
+    display: flex;
+    justify-content: space-around;
+}
